@@ -11,6 +11,9 @@
 
 <hr />
 
+- Q# Playground
+  - [역시 마소 대단_microsoft.github.io/qsharp/](https://microsoft.github.io/qsharp/)
+
 # qsharp_traininig_Azure_Quantum_Development_Kit
 https://github.com/microsoft/qsharp
 
