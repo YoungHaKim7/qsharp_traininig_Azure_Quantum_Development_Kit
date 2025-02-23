@@ -6,6 +6,10 @@
 
 <hr />
 
+- [unicode 찾기](https://unicode.scarfboy.com/?s=%E2%9F%A9)
+
+<hr />
+
 - VSCode
   - [(extension)(Q# qs)Azure Quantum Development Kit (QDK)](https://marketplace.visualstudio.com/items?itemName=quantum.qsharp-lang-vscode)
     - Github https://github.com/microsoft/qsharp 
