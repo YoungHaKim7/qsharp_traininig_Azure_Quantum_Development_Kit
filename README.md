@@ -6,7 +6,7 @@
 
 <hr />
 
-- [unicode 찾기](https://unicode.scarfboy.com/?s=%E2%9F%A9)
+- [unicode 찾기(https://unicode.scarfboy.com/)](https://unicode.scarfboy.com/?s=%E2%9F%A9)
 
 <hr />
 
